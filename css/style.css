@@ -713,4 +713,10 @@ span {
     margin-top: 2rem;
     text-align: center;
   }
+
+  .skills-box h3{
+  min-width: 100px;
+  font-size: 15px;
+  font-weight: 600;
+  }
 }
