@@ -600,8 +600,9 @@ span {
   .skills-container {
     display: flex;
     flex-direction: column;
-    margin-top: 10rem;
-    margin-bottom: -10rem;
+    margin-top: 5rem;
+    gap:1.5rem;
+    margin-left: -0.6rem;
   }
 
   .skills-box {
@@ -680,6 +681,48 @@ span {
   .portfolio-container {
     grid-template-columns: 1fr;
     margin-left: 3rem;
+  }
+
+  .home {
+    background-image: url("../images/mobile_bg4.webp");
+    background-size: cover;
+    height: 100%;
+    width: 100vw;
+  }
+
+  .about {
+    background-image: url("../images/mobile_bg3.webp");
+    background-size: cover;
+    height: 100%;
+    width: 100vw;
+  }
+
+  .skills {
+    background-image: url("../images/mobile_bg6.webp");
+    background-size: cover;
+    height: 100%;
+    width: 100vw;
+  }
+
+  .services {
+    background-image: url("../images/mobile_bg1.webp");
+    background-size: cover;
+    height: 100%;
+    width: 100vw;
+  }
+
+  .portfolio {
+    background-image: url("../images/mobile_bg5.webp");
+    background-size: cover;
+    height: 100%;
+    width: 100vw;
+  }
+
+  .contact {
+    background-image: url("../images/mobile_bg2.webp");
+    background-size: cover;
+    height: 100%;
+    width: 100vw;
   }
 
   .contact form {
