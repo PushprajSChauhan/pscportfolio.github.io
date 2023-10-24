@@ -28,8 +28,8 @@ html {
 }
 
 body {
-  background: var(--bg-color);
-  color: var(--text-color);
+  /* background: var(--bg-color); */
+  color: var(--main-color);
 }
 
 section {
